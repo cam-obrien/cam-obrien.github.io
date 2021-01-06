@@ -1,3 +1,5 @@
 # cam-obrien.github.io
 
-Link: https://cam-obrien.github.io/home.html         https://cam-obrien.github.io/db_portfolio.html
+This is my personal website! I'll be posting projects and works in progress.
+
+Link: https://cam-obrien.github.io/home.html
