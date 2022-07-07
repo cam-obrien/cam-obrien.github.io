@@ -1,0 +1,85 @@
+.home-page {
+    .text-zone{
+        margin-left: 50px;
+        position: absolute;
+        left: 10%;
+        top: 40%;
+        transform: translateY(-50%);
+        width: 100%;
+        max-height: 90%;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+        margin: 0;
+        animation: fadeIn 1.5s 1.9s backwards;
+        font-weight: 350;
+    }
+
+    h1{
+        color: white;
+        font-size: 60px;
+        margin: 0;
+        font-family: 'Coolvetica';
+        font-weight: 400;
+
+        &::before{
+            font-family: 'La Belle Aurore';
+            color: #75FBB6;
+            position: absolute;
+            margin-top: -40px;
+            left: 15px;
+            opacity: 0.6;
+        }
+
+        &::after{
+            font-family: 'La Belle Aurore';
+            color: #75FBB6;
+            position: absolute;
+            margin-top: 10px;
+            margin-left: 20px;
+            animation: fadeIn 1s 1.7s backwards;
+            opacity: 0.6;
+        }
+
+        img {
+            width: 32px;
+            margin-left: 20px;
+            opacity: 0;
+            height: auto;
+            animation: rotateIn 1s linear both;
+            animation-delay: 1.4s;
+        }
+    }
+}
+
+h2 {
+    color: #adadad;
+    margin-top: 20px;
+    font-weight: 400px;
+    font-family: 'sans-serif';
+    letter-spacing: 3px;
+    font-size: 22px;
+    animation: fadeIn 1s 1.8s backwards;
+}
+
+.flat-button{
+    color: #75FBB6;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid #75FBB6;
+    margin-top: 25px;
+    margin-left: 25px;
+    float: left;
+    animation: fadeIn 1.7s 2s backwards;
+    white-space: nowrap;
+
+    &:hover{
+        background: #75FBB6;
+        color: #333;
+        text-decoration: none;
+    }
+}
