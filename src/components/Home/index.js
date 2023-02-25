@@ -9,13 +9,14 @@ const Home = () => {
                 Cameron!
                 <br/>
                 </h1>
-                <h2> Software Engineer | HCI </h2>
+                <h2> Software Engineer | AWS Certified Solutions Architect Associate</h2>
 
                 <br/>
                 <p>
-                    Thanks for visiting my website! I am a new graduate with a <br></br>broad background
-                    in all types of software engineering. Feel <br></br>free to checkout my story, view 
-                    my projects, or get in touch <br></br>with me.
+                    Thanks for visiting my website! I am an Oregon State University graduate with full stack <br/>
+                    experience in a variety of frameworks. I am currently seeking a position in cloud software <br/>
+                    engineering or architecture to further advance my skill set. Feel free to checkout my story,<br/>
+                    view my projects or get in touch with me.
                 </p>
                 <br/>
                 <br></br>
